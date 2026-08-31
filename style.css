@@ -12,6 +12,8 @@ html {
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
     width: 100%;
+    height: auto;
+  display: block;
 }
 
 /* The hero section styling- use your OWN Hero Image URL here */
